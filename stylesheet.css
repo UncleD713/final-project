@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightblue;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    width: 60%;
+    background-color: white;
+    align-self: center;
+    display: block;
+    margin: 120px auto;
+    box-shadow: 5x 10px 20px black;
+}
